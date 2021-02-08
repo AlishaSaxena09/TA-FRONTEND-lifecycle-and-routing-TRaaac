@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "city": "Boston",
+    "tz": "America/New_York",
+    "enabled": true,
+    "image": "./boston.jfif"
+  },
+  {
+    "id": 2,
+    "city": "Dublin",
+    "tz": "Europe/Dublin",
+    "enabled": true,
+    "image": "./dublin.jpg"
+  },
+  {
+    "id": 3,
+    "city": "Taipei",
+    "tz": "Asia/Taipei",
+    "enabled": true,
+    "image": "./taipei.jpg"
+  },
+  {
+    "id": 4,
+    "city": "Rome",
+    "tz": "Europe/Rome",
+    "enabled": true,
+    "image": "./Rome.jpg"
+  },
+  {
+    "id": 5,
+    "city": "Sydney",
+    "tz": "Australia/Sydney",
+    "enabled": true,
+    "image": "./Sydney.jpg"
+  },
+  {
+    "id": 6,
+    "city": "Helsinki",
+    "tz": "Europe/Helsinki",
+    "enabled": true,
+    "image": "./Helsinki.jpg"
+  }
+]
